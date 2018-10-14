@@ -1,0 +1,49 @@
+/* ---- all ---- */
+#shadow{
+    box-shadow: 3px 3px 10px 1px  #888888;
+}
+
+/* ---- header ---- */
+h1{
+    text-align: center;
+}
+header{
+    background-color: rgb(0, 174, 255);
+    height: 275px;
+    box-shadow: 3px 3px 10px 1px  hsl(0, 0%, 57%);
+}
+.PHeader{
+    text-align: center;
+    width: 350px;
+}
+#search{
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+}
+#btnsearch{
+    border-radius: 10px;
+    height: 45px;
+}
+
+
+
+/* ---- footer ---- */
+footer{
+    background-color: rgb(52, 73, 94);
+    box-shadow: 3px 3px 10px 10px  hsl(0, 0%, 57%);
+}
+footer,h3{
+    width: 100%;
+}
+#sectionFooter{
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+#ContFooter{
+    max-width: 100%;
+}
+#linkFooter{
+    text-align: left;
+}
